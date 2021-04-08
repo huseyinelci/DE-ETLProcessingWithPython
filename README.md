@@ -1,3 +1,4 @@
+<img src="https://github.com/huseyinelci2000/DE-DE-ETLProcessingWithPython/blob/master/image/ETL.png?raw=true" width="100%">
 ## ETL Processing With Python & SQLAlchemy
 Understanding **Extract**, **Transform** and **Loading** (ETL) in **Data Driven world** with an example in codes Python and SQLAlchemy 
 
