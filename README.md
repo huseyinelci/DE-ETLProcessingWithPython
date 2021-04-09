@@ -47,7 +47,7 @@ Chinook is a sample database available for SQL Server, Oracle, MySQL, etc. It ca
 In this project is **OpenSource** and owner is  [Luis Rocha](https://github.com/lerocha). Also, if _you plan to use this database in your article research or else_ you must taken and read main Source in the **Luis Rocha repository**.
 #### Authors
 Huseyin ELCI
-  |  [Github](https://github.com/huseyinelci2000)  |  [Kaggle](https://www.kaggle.com/huseyinelci)  |  [Linkedin](https://www.linkedin.com/in/huseyinelci/)   |  
+  |  [Github](https://github.com/huseyinelci)  |  [Kaggle](https://www.kaggle.com/huseyinelci)  |  [Linkedin](https://www.linkedin.com/in/huseyinelci/)   |  
 #### Acknowledgements
 Thanks to [Luis Rocha](https://github.com/lerocha) for providing cool data which we can create a cutting edge project.
 
